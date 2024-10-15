@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced Flutter techniques and state management.
 - 💞️ I’m looking to collaborate on exciting Flutter projects and open-source contributions.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love solving puzzles and playing video games in my free time!
+
 
 
 
